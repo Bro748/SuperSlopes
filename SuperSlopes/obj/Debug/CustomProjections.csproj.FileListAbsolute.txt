@@ -1,0 +1,6 @@
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\Custom-Projections\CustomProjections\bin\Debug\CustomProjections.dll
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\Custom-Projections\CustomProjections\bin\Debug\CustomProjections.pdb
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\Custom-Projections\CustomProjections\obj\Debug\CustomProjections.csproj.AssemblyReference.cache
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\Custom-Projections\CustomProjections\obj\Debug\CustomProjections.csproj.CoreCompileInputs.cache
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\Custom-Projections\CustomProjections\obj\Debug\CustomProjections.dll
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\Custom-Projections\CustomProjections\obj\Debug\CustomProjections.pdb

@@ -1,0 +1,6 @@
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\SuperSlopes\SuperSlopes\bin\Debug\SuperSlopes.dll
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\SuperSlopes\SuperSlopes\bin\Debug\SuperSlopes.pdb
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\SuperSlopes\SuperSlopes\obj\Debug\SuperSlopes.csproj.AssemblyReference.cache
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\SuperSlopes\SuperSlopes\obj\Debug\SuperSlopes.csproj.CoreCompileInputs.cache
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\SuperSlopes\SuperSlopes\obj\Debug\SuperSlopes.dll
+C:\Users\ericer\Documents\Rain World\Code Modding\Mods\Bro748\SuperSlopes\SuperSlopes\obj\Debug\SuperSlopes.pdb
